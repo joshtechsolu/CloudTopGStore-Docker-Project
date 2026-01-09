@@ -55,3 +55,5 @@ All services communicate over a Docker network managed by Docker Compose.
 ```bash
 docker compose up
 
+## 🎥 Project Demo Video
+YouTube Demo: https://youtu.be/UKQKXRoAP0s
