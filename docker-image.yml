@@ -37,4 +37,4 @@ jobs:
       with:
         context: ./order-service
         push: true
-        tags: joshpat/cloudtopg-order:latest
+        tags: joshpat/cloudtopg-order:lates
